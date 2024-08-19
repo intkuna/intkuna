@@ -19,11 +19,6 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-## 🎲 Connect With Me :
-<div align="center">
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJfscdlgLwSMvzcMGKkckksPxFmbRPDTqjlsJpLnTkhRNsrNcZSgkQgGlTvvfVrqPDkvdPL" target="_blank">
-<img src=https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 
